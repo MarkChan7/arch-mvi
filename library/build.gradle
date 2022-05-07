@@ -54,8 +54,8 @@ afterEvaluate {
                 from components.release
 
                 // You can then customize attributes of the publication as shown below.
-                groupId = 'com.markchan7.android.arch'
-                artifactId = 'mvi'
+                groupId = 'com.markchan7.android'
+                artifactId = 'arch-mvi'
                 version = '1.0.0'
             }
         }
